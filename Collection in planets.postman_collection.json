@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "c0a955d0-5f18-4e81-b1bf-a4f62d155e3d",
+		"name": "Collection in planets",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22340407"
+	},
+	"item": [
+		{
+			"name": "all planets",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Planets Yavin IV(id: 3)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
